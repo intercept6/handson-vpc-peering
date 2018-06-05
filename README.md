@@ -1,0 +1,1 @@
+https://dev.classmethod.jp/etc/handson-vpc-peering/
